@@ -1,4 +1,4 @@
-TRC20 address big amount:
+Big amount (just TRC):
 
 TJJ4poJdKxtPGVR7Za2thAALu7U2k3dtKq
 
@@ -6,11 +6,12 @@ TJJ4poJdKxtPGVR7Za2thAALu7U2k3dtKq
 
 
 
+Small amount:
 
 ERC20 / BEP20 address
 0xec48b9f0EDAAc89eeF3c3f982Ca50D2443FF88Fd
 
-TRC20 address small:
+TRC20 address
 TMP6BBYVjry27CfUE8BS1rpqFBJGZBZ2zc
 
 SOL address
