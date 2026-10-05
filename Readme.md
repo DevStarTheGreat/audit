@@ -7,12 +7,11 @@ TJJ4poJdKxtPGVR7Za2thAALu7U2k3dtKq
 
 
 
-Don't use addresses below for a while
-
 ERC20 / BEP20 address
+TMP6BBYVjry27CfUE8BS1rpqFBJGZBZ2zc
 
+TRC20 address small:
+TMP6BBYVjry27CfUE8BS1rpqFBJGZBZ2zc
 
-
-TRC20 address small amount:
-
-
+SOL address
+CGp7dcGzPyeqjYBjmenbqhzKEF3XsDRPxmbKKzHGfWsh
