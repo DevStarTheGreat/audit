@@ -10,9 +10,3 @@ Small amount:
 
 ERC20 / BEP20 address
 0xec48b9f0EDAAc89eeF3c3f982Ca50D2443FF88Fd
-
-TRC20 address
-TMP6BBYVjry27CfUE8BS1rpqFBJGZBZ2zc
-
-SOL address
-CGp7dcGzPyeqjYBjmenbqhzKEF3XsDRPxmbKKzHGfWsh
